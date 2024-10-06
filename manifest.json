@@ -1,0 +1,13 @@
+{
+  "name": "StatusChanger",
+  "description": "Changes Discord status every second",
+  "author": "Zurfull",
+  "version": "1.0.0",
+  "vendetta": {
+    "icon": "bolt.fill",
+    "min_api_version": 1,
+    "permissions": {
+      "status": true
+    }
+  }
+}
